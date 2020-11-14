@@ -44,8 +44,32 @@
 }
 
 .listItem {
-  margin: 0 0 1.25rem;
+  /* margin: 0 0 1.25rem; */
+  display: inline-block;
+  /* float: left; */
+  width: 19%;
+  margin-left: 1%;
+  position: relative;
+  line-height: 0px;
+  margin-bottom: 1%;
+  transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  -webkit-transition: opacity 0.2s ease-in-out;
 }
+
+/* article.thumb-article, li.thumb-article {
+    display: block;
+    display: none;
+    float: left;
+    width: 19%;
+    margin-left: 1%;
+    position: relative;
+    line-height: 0px;
+    margin-bottom: 1%;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+} */
 
 .lightText {
   color: #999;

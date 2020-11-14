@@ -1,8 +1,9 @@
 ---
 title: 'ScreenShot2018-03-05at1'
 date: '2020-01-02'
+thumbnail: /images/lettering/ScreenShot2018-03-05at1.15.55PM.png
 tags:
-  - papercraft
+  - lettering
 ---
 
-![ScreenShot2018-03-05at1](/images/matisse_website_images/ScreenShot2018-03-05at1.16.21PM.png)
+![ScreenShot2018-03-05at1](/images/lettering/ScreenShot2018-03-05at1.15.55PM.png)

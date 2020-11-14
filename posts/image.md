@@ -1,8 +1,9 @@
 ---
 title: 'image'
 date: '2020-01-02'
+thumbnail: /images/lettering/image.png
 tags:
-  - papercraft
+  - lettering
 ---
 
-![image](/images/matisse_website_images/image.png)
+![image](/images/lettering/image.png)
